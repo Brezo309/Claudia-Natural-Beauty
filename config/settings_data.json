@@ -143,6 +143,7 @@
       },
       "collection": {
         "type": "collection",
+        "custom_css": [],
         "settings": {
           "title": "Body Scrubs",
           "collection": "body-scrubs",
@@ -468,20 +469,6 @@
           "button_link": ""
         }
       },
-      "1605844891368ca2e8": {
-        "type": "hero",
-        "settings": {
-          "image": "shopify://shop_images/8e5d7f98b8e5f9169bc077dca7819d2c9c024822d39d6617c481c4676d0d541c.jpg",
-          "alignment": "center",
-          "hero_layout": "full_width",
-          "hero_size": "small",
-          "text_size": "medium",
-          "title": "Handmade",
-          "text": "<p>Nautral Soaps</p>",
-          "button_label": "",
-          "button_link": ""
-        }
-      },
       "list-collections-template": {
         "type": "list-collections-template",
         "settings": {
@@ -489,12 +476,22 @@
           "sort": "alphabetical",
           "grid": 3
         }
+      },
+      "rich_text_knmQrM": {
+        "type": "rich-text",
+        "custom_css": [],
+        "settings": {
+          "full_width": false,
+          "section_title": "Healthy skin is your natural crown",
+          "text": "<p>A radiant testament to nature's gentle care and your inner royalty</p>",
+          "text_size": "large"
+        }
       }
     },
     "content_for_index": [
       "hero-1",
       "1603499792476",
-      "1605844891368ca2e8",
+      "rich_text_knmQrM",
       "collection",
       "1602136829748",
       "16058438287b1611b6",
