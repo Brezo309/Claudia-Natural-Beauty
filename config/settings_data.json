@@ -75,8 +75,8 @@
       "hero-1": {
         "type": "hero",
         "settings": {
-          "image": "shopify://shop_images/Untitled_6_9cd7035e-08ac-4903-99a0-29efa2574dec.png",
-          "alignment": "center",
+          "image": "shopify://shop_images/womans-shoulder-side.jpg",
+          "alignment": "bottom",
           "hero_layout": "full_width",
           "hero_size": "large",
           "text_size": "large",
