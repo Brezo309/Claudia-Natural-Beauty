@@ -88,7 +88,6 @@
       },
       "feature-row": {
         "type": "feature-row",
-        "disabled": true,
         "settings": {
           "layout": "left",
           "title": "Image with text",
@@ -345,9 +344,9 @@
       "1603499792476": {
         "type": "collection-slider",
         "settings": {
-          "title": "Shop",
+          "title": "Featured Collection",
           "collection": "featured-collections",
-          "grid": 3,
+          "grid": 4,
           "show_vendor": false,
           "show_view_all": false
         }
@@ -495,7 +494,6 @@
     "content_for_index": [
       "hero-1",
       "1603499792476",
-      "feature-row",
       "1605844891368ca2e8",
       "collection",
       "1602136829748",
