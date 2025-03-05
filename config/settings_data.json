@@ -19,10 +19,10 @@
     "color_text_field_border": "#cccccc",
     "color_text_field": "#000000",
     "color_image_overlay_text": "#ffffff",
-    "color_image_overlay": "#685858",
+    "color_image_overlay": "#fafafa",
     "image_overlay_opacity": 40,
     "color_borders": "#ebebeb",
-    "color_body_bg": "#000000",
+    "color_body_bg": "#cccccc",
     "type_header_font": "akko_n4",
     "type_header_base_size": 26,
     "type_base_font": "helvetica_n4",
@@ -81,7 +81,7 @@
           "hero_size": "large",
           "text_size": "large",
           "title": "Shine Bright",
-          "text": "<p>Make you room cosy with cute lights</p>",
+          "text": "<p>Where Nature Meets Royalty</p>",
           "button_label": "Shop Now",
           "button_link": "shopify://collections"
         }
@@ -354,7 +354,7 @@
         "type": "collection-slider",
         "settings": {
           "title": "Shop",
-          "collection": "frontpage",
+          "collection": "featured-collections",
           "grid": 3,
           "show_vendor": false,
           "show_view_all": false
@@ -488,6 +488,14 @@
           "button_label": "",
           "button_link": ""
         }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": 3
+        }
       }
     },
     "content_for_index": [
@@ -506,7 +514,23 @@
       "1601776093528",
       "1602136905992",
       "1605654780e0c426a6"
-    ]
+    ],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": true,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
