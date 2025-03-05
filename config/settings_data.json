@@ -145,9 +145,9 @@
       "collection": {
         "type": "collection",
         "settings": {
-          "title": "Led Table lamps",
-          "collection": "lamps",
-          "grid": 3,
+          "title": "Body Scrubs",
+          "collection": "body-scrubs",
+          "grid": 4,
           "rows": 1,
           "show_vendor": false,
           "show_view_all": false
@@ -307,7 +307,7 @@
       "1602136946659": {
         "type": "featured-product",
         "settings": {
-          "featured_product": "led-star-projector-planetarium-projector-kids-room-decoration-starry-night-lamp-galaxy-light-luminaria-original-home-planetarium",
+          "featured_product": "all-natural-mens-bath-body-luxury-spa-gift-set-basket",
           "show_quantity_selector": true,
           "show_vendor": true,
           "enable_payment_button": true,
@@ -447,9 +447,9 @@
       "16058403183a31231e": {
         "type": "collection",
         "settings": {
-          "title": "Night Projectors",
-          "collection": "night-projectors",
-          "grid": 3,
+          "title": "Lotions & Moisturizers",
+          "collection": "lotions-moisturizers",
+          "grid": 4,
           "rows": 1,
           "show_vendor": false,
           "show_view_all": false
@@ -458,12 +458,13 @@
       "16058438287b1611b6": {
         "type": "hero",
         "settings": {
+          "image": "shopify://shop_images/24d37db3243106f2c7d86fbb7803b064172a127f8a99c02e763b3be5ad8af155.jpg",
           "alignment": "center",
           "hero_layout": "full_width",
           "hero_size": "medium",
           "text_size": "large",
-          "title": "Night magic",
-          "text": "<p>Create some magic with our night projectors</p>",
+          "title": "Lotions & Moisturizers",
+          "text": "",
           "button_label": "",
           "button_link": ""
         }
@@ -476,8 +477,8 @@
           "hero_layout": "full_width",
           "hero_size": "small",
           "text_size": "medium",
-          "title": "Lighten up",
-          "text": "<p>Cozy led lamps</p>",
+          "title": "Handmade",
+          "text": "<p>Nautral Soaps</p>",
           "button_label": "",
           "button_link": ""
         }
