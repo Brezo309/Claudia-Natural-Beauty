@@ -505,13 +505,28 @@
       "1605654780e0c426a6"
     ],
     "blocks": {
+      "2532827098368908073": {
+        "type": "shopify://apps/snap-preorder-backorder/blocks/presale-backorder/ff20ec89-389a-4a34-9c65-23e040cb765c",
+        "disabled": false,
+        "settings": {}
+      },
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {}
+      },
+      "3979034072534932226": {
+        "type": "shopify://apps/metashop-insta-fb/blocks/app-embed/a2ba3b6f-1992-4528-a81d-226ccc4d2a86",
+        "disabled": false,
+        "settings": {}
+      },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "button_color": "#000000",
-          "secondary_color": "#FFFFFF",
-          "ternary_color": "#6A6A6A",
+          "secondary_color": "#ffffff",
+          "ternary_color": "#6a6a6a",
           "button_icon": "chat_bubble",
           "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
@@ -519,9 +534,9 @@
           "greeting_message": ""
         }
       },
-      "2532827098368908073": {
-        "type": "shopify://apps/snap-preorder-backorder/blocks/presale-backorder/ff20ec89-389a-4a34-9c65-23e040cb765c",
-        "disabled": false,
+      "1656560654682496077": {
+        "type": "shopify://apps/instant/blocks/instant_core/927e19d9-4e68-41db-99c7-d8debdc1f80d",
+        "disabled": true,
         "settings": {}
       }
     }
